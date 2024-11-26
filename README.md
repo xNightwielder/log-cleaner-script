@@ -40,10 +40,10 @@ You can modify the script variables to suit your needs:
 - retention_days: Adjust the number of days for log retention.
 
 ## Example Output
-Backup directory created: /var/log/backup
-Logs older than 3 days moved to backup.
-Backups older than 6 days have been deleted.
-Log cleaning completed.
+Backup directory created: /var/log/backup  
+Logs older than 3 days moved to backup.  
+Backups older than 6 days have been deleted.  
+Log cleaning completed.  
 
 ## Future Enhancements
 - Provide command-line arguments for customization.
